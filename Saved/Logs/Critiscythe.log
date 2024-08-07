@@ -1267,3 +1267,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 
 [2024.08.07-15.22.14:850][  1]Running Python start-up script 'D:/Program Files/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.043318 secs
 [2024.08.07-15.22.17:727][320]LogEditorViewport: Clicking Background
+[2024.08.07-15.24.05:545][522]LogDerivedDataCache: C:/Users/81703/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.127 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2109 files in 3001 folders with total size 167 MiB.
