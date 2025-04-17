@@ -1867,3 +1867,7 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.04.17-14.50.55:052][888]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/2DAction/Blueprints/Skill/BP_ESkill_Auto0
 [2025.04.17-14.50.55:052][888]LogSavePackage: Moving '../../../../../../Users/Sakkt/OneDrive/ドキュメント/GitHub/CS/Saved/BP_ESkill_Auto076ACFB874D5BA3A8AC19058F2085FB94.tmp' to '../../../../../../Users/Sakkt/OneDrive/ドキュメント/GitHub/CS/Saved/Autosaves/Game/2DAction/Blueprints/Skill/BP_ESkill_Auto0.uasset'
 [2025.04.17-14.50.55:053][888]LogFileHelpers: Auto-saving content packages took 0.049
+[2025.04.17-14.55.51:585][973]Cmd: CLOSE_SLATE_MAINFRAME
+[2025.04.17-14.55.51:599][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.04.17-14.55.54:227][973]LogSlate: Window 'コンテンツを保存' being destroyed
+[2025.04.17-15.03.55:235][  3]LogDerivedDataCache: C:/Users/Sakkt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.051 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1995 files in 3005 folders with total size 151 MiB.
